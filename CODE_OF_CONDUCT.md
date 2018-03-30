@@ -45,11 +45,15 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
 
-#Código de Conduta do Pacto de Contribuinte
-#Nosso compromisso
+<hr>
+<h3>PORTUGUÊS</h3>
+
+<h1>Código de Conduta do Pacto de Contribuinte</h1>
+
+<h3>Nosso compromisso</h3>
 No interesse de promover um ambiente aberto e acolhedor, nós, como colaboradores e mantenedores, comprometemo-nos a tornar a participação em nosso projeto e em nossa comunidade uma experiência livre de assédio para todos, independentemente da idade, tamanho corporal, deficiência, etnia, identidade e expressão de gênero. nível de experiência, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
-#Nossos padrões
+<h3>Nossos padrões</h3>
 Exemplos de comportamento que contribuem para criar um ambiente positivo incluem:
 
 Usando linguagem acolhedora e inclusiva
@@ -69,13 +73,13 @@ Os mantenedores do projeto são responsáveis ​​por esclarecer os padrões d
 
 Os mantenedores do projeto têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, códigos, edições do wiki, questões e outras contribuições que não estejam alinhadas a este Código de Conduta, ou banir temporariamente ou permanentemente qualquer colaborador por outros comportamentos que julgam inapropriado, ameaçador, ofensivo ou prejudicial.
 
-Escopo
+<h3>Escopo</h3>
 Este Código de Conduta se aplica tanto nos espaços do projeto quanto nos espaços públicos quando um indivíduo está representando o projeto ou sua comunidade. Exemplos de representação de um projeto ou comunidade incluem o uso de um endereço de e-mail oficial do projeto, postagem por meio de uma conta oficial de mídia social ou a atuação como um representante nomeado em um evento on-line ou off-line. A representação de um projeto pode ser definida e esclarecida pelos mantenedores do projeto.
 
-Aplicação
+<h3>Aplicação</h3>
 Instâncias de comportamento abusivo, de assédio ou inaceitável podem ser relatadas entrando em contato com a equipe do projeto no rafael_andrade74@hotmail.com . A equipe do projeto analisará e investigará todas as reclamações e responderá da maneira que julgar apropriada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator de um incidente. Detalhes adicionais sobre políticas específicas de execução podem ser publicados separadamente.
 
 Os mantenedores do projeto que não seguem ou aplicam o Código de Conduta de boa fé podem enfrentar repercussões temporárias ou permanentes, conforme determinado por outros membros da liderança do projeto.
 
-Atribuição
+<h3>Atribuição</h3>
 Este Código de Conduta é adaptado do Pacto do Colaborador , versão 1.4, disponível em http://contributor-covenant.org/version/1/4
